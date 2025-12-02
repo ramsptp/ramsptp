@@ -27,5 +27,4 @@ I am a software engineer and game developer with a passion for building complex 
 ---
 
 ### 📫 Get in Touch
-* **LinkedIn:** [Your LinkedIn URL]
-* **Email:** [Your Email Address]
+* **LinkedIn:** https://www.linkedin.com/in/abhiramptp/
