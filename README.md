@@ -19,9 +19,9 @@ I am a software engineer and game developer with a passion for building complex 
 
 ---
 
-### 🎧 What I'm Listening To
+### 🎵 Currently Playing
 <a href="https://www.last.fm/user/Rams_04">
-  <img src="https://github-readme-last-fm-stats.vercel.app/api?user=Rams_04&count=1&header=false&theme=tokyonight" alt="Recently Played">
+  <img src="https://lastfm-recently-played.vercel.app/api?user=Rams_04&count=1&header_style=none&bg_color=1a1b27&width=400" alt="Currently Playing">
 </a>
 
 ---
