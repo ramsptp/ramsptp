@@ -21,10 +21,10 @@ I am a software engineer and game developer with a passion for building complex 
 
 ### 🎧 What I'm Listening To
 <a href="https://www.last.fm/user/Rams_04">
-  <img src="https://github-readme-last-fm-stats.vercel.app/api/now-playing?user=Rams_04&theme=tokyonight" alt="Now Playing">
+  <img src="https://github-readme-last-fm-stats.vercel.app/api?user=Rams_04&count=1&header=false&theme=tokyonight" alt="Recently Played">
 </a>
 
 ---
 
 ### 📫 Get in Touch
-* **LinkedIn:** https://www.linkedin.com/in/abhiramptp/
+* **LinkedIn:** [Abhiram PTP](https://www.linkedin.com/in/abhiramptp/)
