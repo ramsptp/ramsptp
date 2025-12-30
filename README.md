@@ -19,6 +19,7 @@ I am a software engineer and game developer with a passion for building complex 
 ---
 
 ### 🔭 What I'm Working On
+* **Codemap:** Building an intelligent codebase visualizer that helps programmers and students understand code and codebases better.
 * **Futbot:** Building a specialized bot for football card game interactions, focusing on automation and game mechanics.
 * **Cooking Simulator:** Developing a 3D simulation game using **Unreal Engine 5**, bringing authentic culinary mechanics to life.
 * **Academic Research:** Researching core Computer Science topics, specifically focusing on data structures, algorithmic efficiency, and computational system architecture.
