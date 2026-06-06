@@ -32,7 +32,21 @@ I am a software engineer and game developer with a passion for building complex 
 <a href="https://www.last.fm/user/Rams_04">
   <img src="https://lastfm-recently-played.vercel.app/api?user=Rams_04&count=1&header_style=none&bg_color=1a1b27&width=500" alt="Currently Playing">
 </a>
+<br/>
+<br/>
 
+### 🎮 Discord Activity
+
+<a href="https://discord.com/users/743823554365095948">
+  <img src="https://lanyard.cnrad.dev/api/743823554365095948?theme=dark&bg=1a1b27&animated=true&showDisplayName=true&borderRadius=12px" alt="Discord Presence">
+</a>
+
+<br/>
+<br/>
+
+<a href="https://www.linkedin.com/in/abhiramptp/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 <br/>
 <br/>
 
