@@ -38,7 +38,7 @@ I am a software engineer and game developer with a passion for building complex 
 ### 🎮 Discord Activity
 
 <a href="https://discord.com/users/743823554365095948">
-  <img src="https://lanyard.cnrad.dev/api/743823554365095948?theme=dark&bg=1a1b27&animated=true&showDisplayName=true&borderRadius=12px" alt="Discord Presence">
+  <img src="[https://lanyard.cnrad.dev/api/743823554365095948?theme=dark&bg=1a1b27&animated=true&showDisplayName=true&borderRadius=12px](https://lanyard.cnrad.dev/api/?idleMessage=Probably%20touching%20grass%20atm.)" alt="Discord Presence">
 </a>
 
 <br/>
