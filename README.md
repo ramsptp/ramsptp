@@ -50,8 +50,4 @@ I am a software engineer and game developer with a passion for building complex 
 <br/>
 <br/>
 
-<a href="https://www.linkedin.com/in/abhiramptp/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
 </div>
